@@ -1,0 +1,4 @@
+- add score
+- add dynamic difficulty
+- soften animations
+
